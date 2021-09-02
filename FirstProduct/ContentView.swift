@@ -17,7 +17,7 @@ struct ContentView: View {
             Spacer()
             HStack() {
                 Spacer()
-                Text("Going").padding()
+                Text("GOING").padding()
                 Spacer()
                 Text("FEARLESS")
                     .accentColor(.red)
